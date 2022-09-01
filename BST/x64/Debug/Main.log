@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\Visual Studio\Data-structures-on-C\BST\Main\Main\Main.cpp(18,30): warning C4293: <<: отрицательное или слишком большое смещение; поведение не определено
+D:\Visual Studio\Data-structures-on-C\BST\Main\Main\Main.cpp(26,26): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Visual Studio\Data-structures-on-C\BST\Main\Main\Main.cpp(45,6): warning C4101: val: неиспользованная локальная переменная
+  Main.vcxproj -> D:\Visual Studio\Data-structures-on-C\BST\Main\x64\Debug\Main.exe

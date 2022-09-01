@@ -1,0 +1,11 @@
+﻿  BST.cpp
+D:\Visual Studio\Data-structures-on-C\BST\Main\BST.cpp(173,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "INT_64"
+D:\Visual Studio\Data-structures-on-C\BST\Main\BST.cpp(173,10): message : рекомендуется использовать "%lld" в строке форматирования
+D:\Visual Studio\Data-structures-on-C\BST\Main\BST.cpp(173,10): message : рекомендуется использовать "%Id" в строке форматирования
+D:\Visual Studio\Data-structures-on-C\BST\Main\BST.cpp(173,10): message : рекомендуется использовать "%I64d" в строке форматирования
+  Main.cpp
+D:\Visual Studio\Data-structures-on-C\BST\Main\Main.cpp(18,30): warning C4293: <<: отрицательное или слишком большое смещение; поведение не определено
+D:\Visual Studio\Data-structures-on-C\BST\Main\Main.cpp(26,26): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Visual Studio\Data-structures-on-C\BST\Main\Main.cpp(45,6): warning C4101: val: неиспользованная локальная переменная
+  Создание кода...
+  Main.vcxproj -> D:\Visual Studio\Data-structures-on-C\BST\x64\Debug\Main.exe
